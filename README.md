@@ -1,4 +1,4 @@
-# Udacity-Web Development Professional Nanodegree Program--Landing Page Project
+# Web Development Professional Nanodegree Program--Landing Page Project
 Landing Page Project
 # Architecture:
 css
